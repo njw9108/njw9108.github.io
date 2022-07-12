@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "5694c55d5b73a53c2ed44e6c51ca83e4",
-"index.html": "6f6ca63d2fc91a11cfafbbb6dcc089b5",
-"/": "6f6ca63d2fc91a11cfafbbb6dcc089b5",
-"main.dart.js": "797f0ea08440eb26c198fda72a0661c1",
+"index.html": "14ec192deb09bab586ea61b8b554e532",
+"/": "14ec192deb09bab586ea61b8b554e532",
+"asset/loading_progress.gif": "0836a7092d9abdd9cb606306ccee3159",
+"main.dart.js": "8c69ac05fd71e37685b3d2bde23bbe9d",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -15,7 +16,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "400354d36f81ab8f880e4759ae571ff1",
 "assets/AssetManifest.json": "3eb645c1b1309de2403888550acea657",
-"assets/NOTICES": "335ab3f33a52b98c7cdaccef242da43b",
+"assets/NOTICES": "5619122700c70c57d95635b36460b064",
 "assets/img/newspaper.jpg": "ed7004a9b2f64d63eb77748f8b323a5b",
 "assets/img/kakao/kakao_login_large_wide.png": "b2df8abced56e0bbd49f7878a411e9c0",
 "assets/img/kakao/kakao_login_large_narrow.png": "c131a7373ebf8184425abc238dab0d0b",
