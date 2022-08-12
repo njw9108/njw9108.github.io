@@ -61925,8 +61925,8 @@ A.mW.prototype={
 ah(){return new A.LX(B.p)},
 gaE(a){return this.c}}
 A.LX.prototype={
-H(a,b){var s=null,r=A.arL(new A.a9d(this)),q=t.E
-return A.np(B.bF,A.b([new A.ws(A.aiL(A.Uo(s,!1),s,60,r,this.L6(),0,-90),B.F,B.zt,s,s),A.as0(A.cY(A.b([B.HV,A.cG(""+(this.a.d+1)+"\uc704",A.aW(b).R8.e.Z8(B.ct,0.5),s)],q),B.J,B.fR))],q),B.a9,B.bA)},
+H(a,b){var s=null,r=A.arL(new A.a9d(this)),q=A.Uo(s,!1),p=b.O(t.w).f.a.a<850?45:60,o=t.E
+return A.np(B.bF,A.b([new A.ws(A.aiL(q,s,p,r,this.L6(),0,-90),B.F,B.zt,s,s),A.as0(A.cY(A.b([B.HV,A.cG(""+(this.a.d+1)+"\uc704",A.aW(b).R8.e.Z8(B.ct,0.5),s)],o),B.J,B.fR))],o),B.a9,B.bA)},
 L6(){return A.ard(10,new A.a9e(this),t.Ka)}}
 A.a9d.prototype={
 $2(a,b){var s=this.a
@@ -62000,7 +62000,7 @@ k=t.g
 m=A.by(i,A.cY(A.b([new A.c5(B.dt,A.by(B.I,new A.xl(this.d,h.gAB(),g.x,i),B.q,i,i,new A.bu(m,i,i,i,i,i,B.Q),i,100,i,B.fe,i,i,300),i),A.iz(new A.wF(new A.aQ(l,l,k),i),i,300)],q),B.J,B.fR),B.q,i,i,i,i,750,i,B.aJ,i,i,i)
 j=g.Q
 j.toString
-j=A.iz(new A.mW(new A.aQ(l,l,k),j,i),150,150)
+j=A.iz(new A.mW(new A.aQ(l,l,k),j,i),200,200)
 n=A.av(n,158,158,158)
 p.push(A.cY(A.b([m,new A.c5(B.zE,j,i),new A.c5(B.aJ,A.cY(A.b([B.kI,B.d5,A.by(B.I,new A.q4(s,b.O(o).f.a.a<850?3:5,i),B.q,i,i,new A.bu(n,i,i,i,i,i,B.Q),i,i,i,B.aJ,i,i,i)],q),B.ai,B.z),i)],q),B.J,B.z))}if(b.O(o).f.a.a>=1100)p.push(B.d5)
 n=B.d.ag(178.5)
